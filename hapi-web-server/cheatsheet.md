@@ -8,7 +8,7 @@ const routes = [
     method: "GET",
     path: "/",
     handler: (request, h) => {
-      return "Home Page";
+      return "Homepage";
     },
   },
   {
